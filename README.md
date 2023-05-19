@@ -1,5 +1,18 @@
-### Hi there 👋
-
+# Hi there 👋, I am Mikhail Zhitin
+### My main skill is frontend development. I also sometimes design interface designs. This allows me to look at the task from several angles.
+## My primary skils and techs
+![Javascript](./js.png)
+![HTML](./html.png)
+![CSS](./css.png)
+![Typescript](./ts.png)
+![React](./react.png)
+![Webpack](./webpack.png)
+## Other skils and techs
+![Node js](./node.png)
+![Docker](./docker.png)
+![Yandex cloud](./yc.png)
+![GoLang](./go.png)
+![Figma](./figma.png)
 <!--
 **Barbate-guy/Barbate-guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
