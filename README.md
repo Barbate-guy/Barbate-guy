@@ -1,5 +1,6 @@
 # Hi there 👋, I am Mikhail Zhitin
-### My main skill is frontend development. I also sometimes design interface designs. This allows me to look at the task from several angles.
+My main skill is <b>Frontend Development</b>.<br/> 
+I also sometimes design interface designs.This allows me to look at the task from several angles.
 ## My primary skils and techs
 ![Javascript](./js.png)
 ![HTML](./html.png)
